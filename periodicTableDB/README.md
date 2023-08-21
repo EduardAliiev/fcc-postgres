@@ -15,7 +15,7 @@ If you leave your virtual machine, your database may not be saved. You can make 
 If you are saving your progress on freeCodeCamp.org, after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the periodic_table.sql file, as well as the final version of your element.sh file, in a public repository and submit the URL to it on freeCodeCamp.org.
 
 _Complete the tasks below_
-[x] You should rename the weight column to atomic_mass
+-[x] You should rename the weight column to atomic_mass
 [x] You should rename the melting_point column to melting_point_celsius and the boiling_point column to boiling_point_celsius
 [x] Your melting_point_celsius and boiling_point_celsius columns should not accept null values
 [x] You should add the UNIQUE constraint to the symbol and name columns from the elements table
